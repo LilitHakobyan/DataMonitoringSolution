@@ -1,0 +1,6 @@
+@DataMonitoringSolution_HostAddress = http://localhost:5223
+
+GET {{DataMonitoringSolution_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
