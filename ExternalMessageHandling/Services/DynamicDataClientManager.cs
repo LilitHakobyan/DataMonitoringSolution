@@ -6,7 +6,7 @@ namespace ExternalMessageHandling.Services
 {
     /// <summary>
     /// DynamicDataClientManager service is responsible for initializing IDynamicDataClientService and
-    /// providing access to EntryDynamicService and MessageSenderService to other services.
+    /// providing access to DataDynamicService and MessageSenderService to other services.
     /// </summary>
     public class DynamicDataClientManager : IDynamicDataClientManager
     {
